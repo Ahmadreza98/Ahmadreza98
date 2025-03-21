@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ Hi there! I'm Ahmadreza Ghanaatian 👋
 
 <!--
 **Ahmadreza98/Ahmadreza98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔧 Electronics & Power Engineer | 🎓 MSc Student | ⚡ Power Electronics | Power Electronics and Electric Machines
+### 💡 What I Do:
+- Designing switching power supplies & DC-DC converters
+- Working with STM32 microcontrollers
+- PCB design & simulation (Altium Designer, LTspice)
+- Coding in C, Python, LaTeX
