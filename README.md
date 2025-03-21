@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔧 Electronics & Power Engineer | 🎓 MSc Student | ⚡ Power Electronics | Power Electronics and Electric Machines
 ### 💡 What I Do:
-- Designing switching power supplies & DC-DC converters
-- Working with STM32 microcontrollers
-- PCB design & simulation (Altium Designer, LTspice)
-- Coding in C, Python, LaTeX
+- Designing switching power supplies & DC-DC converters.
+- Working with STM32 microcontrollers.
+- PCB design & simulation (Altium Designer, LTspice, PSpice, MATLAB Code, MATLAB Simulink, Keil, Visio).
+- Coding in C, C++, Python, LaTeX.
